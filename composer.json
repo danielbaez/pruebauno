@@ -1,0 +1,23 @@
+{
+    "name": "dbaez/pruebauno",
+    "description": "test",
+    "keywords":[
+      "test",
+      "prueba"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Baez",
+            "email": "daniel_bg19@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-4":{
+         "dbaez\\pruebauno\\":"src"
+      }
+   }
+}
